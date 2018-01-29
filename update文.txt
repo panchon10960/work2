@@ -1,1 +1,3 @@
 UPDATE buyma SET is_csv=0 WHERE is_csv=1;
+
+guguguigi
